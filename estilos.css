@@ -1,0 +1,90 @@
+body{
+  background-color: blueviolet;
+}
+  
+  h1 {
+    
+   
+  color: fuchsia;
+  }
+  
+p{
+  font-family: cursive;
+}
+
+
+  h2 { 
+    color:indigo;
+
+  }
+
+  * { 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+ 
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  
+ 
+align-items: center;
+}
+
+img {
+  
+ 
+  display: block;
+    
+   
+  margin: 0 auto;
+  }
+
+  h2 {
+    display: flex;
+  justify-content: center;
+  
+ 
+align-items: center;
+  }
+
+body{
+  border: 3px solid #000000; 
+}
+
+
+img {
+  
+ 
+  border: 2px solid #000000;
+  }
+
+  body {
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-colorido-arco-iris-acuarela_125540-151.jpg);
+    
+   
+  background-repeat: no-repeat;
+    
+   
+  background-size: cover;
+    
+   
+  background-position: center;
+  }
+  
+
+  h3{
+    font-size: 24px;
+    color:crimson;
+  }
+  
+
+  h4{
+    font-size: 24px;
+    color:crimson;
+  }
+
+  h5{
+    font-size:24px;
+    color:crimson;
+  }
